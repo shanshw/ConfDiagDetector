@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configuration-detector.iml" filepath="$PROJECT_DIR$/configuration-detector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subjects/jchord/jchord.iml" filepath="$PROJECT_DIR$/subjects/jchord/jchord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subjects/randoop/randoop.iml" filepath="$PROJECT_DIR$/subjects/randoop/randoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subjects/soot-2.5/soot-2.5.iml" filepath="$PROJECT_DIR$/subjects/soot-2.5/soot-2.5.iml" />
+    </modules>
+  </component>
+</project>

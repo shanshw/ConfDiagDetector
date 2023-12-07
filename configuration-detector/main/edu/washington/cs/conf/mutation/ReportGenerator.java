@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import plume.Pair;
+import org.apache.commons.lang3.tuple.Pair;
 
 //generate the error report for inadequate error messages
 public class ReportGenerator {

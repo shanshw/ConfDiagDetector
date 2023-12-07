@@ -3,7 +3,7 @@ package edu.washington.cs.conf.nlp;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-import plume.Pair;
+import org.apache.commons.lang3.tuple.Pair;
 
 public class TaskSpecificSynonyms {
 	

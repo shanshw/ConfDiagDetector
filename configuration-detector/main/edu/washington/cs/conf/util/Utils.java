@@ -41,7 +41,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
 
-import com.ibm.wala.ipa.callgraph.CGNode;
+//import com.ibm.wala.ipa.callgraph.CGNode;
 
 public class Utils {
 	
